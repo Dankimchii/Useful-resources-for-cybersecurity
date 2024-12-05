@@ -18,6 +18,8 @@ https://www.uq.edu.au/study/docs/dual-degree-planners-2021/2021-Bachelor-of-Comp
 6. PJPT by TCM Security
      https://certifications.tcm-sec.com/pjpt/
 
+LEETCODE DO LEETCODE
+
 DO SIDE PROJECTS!!!!!! NOT JUST FOCUS ON ONLY CYBERSECURITY RELATED TOPICS - MAKE WHATEVER I WANNA MAKE FR
 
 Learn C:
