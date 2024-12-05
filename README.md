@@ -16,7 +16,8 @@ Just incase I forget what to study from
      https://certifications.tcm-sec.com/pjpt/
 
 DO SIDE PROJECTS!!!!!! NOT JUST FOCUS ON ONLY CYBERSECURITY RELATED TOPICS - MAKE WHATEVER I WANNA MAKE FR
-
+Learn C:
+https://learn-c.org/
 
 /// Things I'm currently doing ///
 1. freeCodeCamp
