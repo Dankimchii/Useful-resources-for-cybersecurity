@@ -1,6 +1,9 @@
 # Dan Kim Comp Sci/Cybersecurity Tracker
 Just incase I forget what to study from
 
+Basic degree planner
+https://www.uq.edu.au/study/docs/dual-degree-planners-2021/2021-Bachelor-of-Computer-Science-Master-of-Cyber-Security-2481.pdf 
+
 /// Things to do /// 
 1. Google Cybersecurity Professional Certificate
      https://www.coursera.org/professional-certificates/google-cybersecurity?action=enroll&authMode=signup&irclickid=WgxQ8dT2fxyKRI0R-O2sd0hZUkCVSTXY70Fh1I0&irgwc=1&utm_campaign=2057982&utm_content=b2c&utm_medium=partners&utm_source=impact
