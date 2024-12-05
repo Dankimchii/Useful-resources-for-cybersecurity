@@ -22,7 +22,8 @@ DO SIDE PROJECTS!!!!!! NOT JUST FOCUS ON ONLY CYBERSECURITY RELATED TOPICS - MAK
 
 Learn C:
 https://learn-c.org/ (for reference)
-*** exercism.org ***
+
+*** exercism.org *** (important for learning)
 
 
 /// Things I'm currently doing ///
