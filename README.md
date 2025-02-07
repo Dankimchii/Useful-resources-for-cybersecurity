@@ -26,7 +26,7 @@ Learn C:
 https://learn-c.org/ (for reference)
 
 *** exercism.org *** (important for learning)
-
+*** https://www.acmicpc.net/step *** 백준(step by step for all sorts of stuff)
 
 /// Things I'm currently doing ///
 1. freeCodeCamp
